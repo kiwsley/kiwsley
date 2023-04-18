@@ -2,7 +2,7 @@ Olá! Eu sou Kiwsley 👋
 
 
 - 🔭 Hoje trabalho como analista de suporte
-- 🌱 Estudando JavaScript...
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/kiwsley">
