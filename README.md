@@ -1,27 +1,26 @@
+# Quem sou?
+
 Olá! Eu sou Kiwsley 👋
 
 
-- 🔭 Hoje trabalho como analista de suporte
-- 🌱 
-
-<div align="center">
-  <a href="https://github.com/kiwsley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiwsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwsley&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/kiwsley-freire-a11760121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- 🔭 Hoje trabalho como Analista de Suporte;
+- 🌱 Em migração de Carreira Área de Dados;
  
- 
-</div>
+# Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kiwsley-freire-a11760121/)
+
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiwsley&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+# TOP Linguagens
+![Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwsley&layout=compact&langs_count=7&theme=dark)
+
+# Ferramentas Utilizadas Para Criar o Readme
+
+Link: 
+
+[Readme.so](https://readme.so/)
+
+[Lista de Emoticon](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
