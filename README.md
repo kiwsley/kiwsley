@@ -4,7 +4,7 @@ Olá! Eu sou Kiwsley 👋
 
 
 - 🔭 Hoje trabalho como Analista de Suporte;
-- 🌱 Em migração de Carreira Área de Dados;
+- 🌱 Em migração para Área de Dados;
  
 # Conecte-se Comigo
 
