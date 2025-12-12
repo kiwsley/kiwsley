@@ -3,9 +3,7 @@
 Olá! Eu sou Kiwsley 👋
 
 
-- 🔭 Hoje trabalho como Analista de Suporte;
-- 🌱 Em migração para Área de Dados;
-- ⭐ Sites criados em WordPress: https://fisioterapeutaraianyarruda.com.br/
+/
 - 
 # Conecte-se Comigo
 
